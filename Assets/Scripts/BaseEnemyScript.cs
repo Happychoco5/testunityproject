@@ -43,4 +43,5 @@ public class BaseEnemyScript : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    // chris is cool!
 }
