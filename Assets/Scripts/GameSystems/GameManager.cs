@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public int gold;
 
+    //New stuff to be added
 
     // Start is called before the first frame update
     void Start()
